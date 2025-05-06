@@ -1,0 +1,11 @@
+@import 'tailwindcss';
+
+body {
+	@apply min-h-screen grid place-items-center gap-4 py-4 text-2xl text-neutral-800;
+}
+.lucide {
+	@apply h-8 w-8;
+}
+.lucide.middle {
+	@apply h-24 w-24;
+}
