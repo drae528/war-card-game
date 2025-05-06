@@ -15,3 +15,7 @@ web based war card game
 - clone repo
 - run 'npm install'
 - run 'npm run dev'
+
+## disclaimer
+
+this isn't built well. you have to flip a card before the cards load and it will break when you or the enemy runs out of cards
